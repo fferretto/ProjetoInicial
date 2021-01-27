@@ -1,0 +1,28 @@
+﻿@model SistemaFinanceiro.Areas.Cadastros.Models.FiltroCadUsuarioModel
+@using SistemaFinanceiro.Helper
+
+@{
+    ViewBag.Title = "Usuario";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@using (Html.BeginForm())
+{
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <div style="font-weight: bold; font-size: 15px;">
+                <b>Cadastro de Usuário</b>
+            </div>
+        </div>
+        <div class="panel-body">
+            <div class="row">
+                <div class="col-md-12">
+                    @Html.EditBootstrapFor(model => Model.codigoUsuario, tudoTamanho: 12, inputTamanho: 2)
+                    @Html.EditBootstrapFor(model => Model.nomeUsuario, tudoTamanho: 12, inputTamanho: 5)
+                    @Html.EditBootstrapFor(model => Model.ValorTeste, tudoTamanho: 4, inputTamanho: 8)
+                    @Html.EditBootstrapFor(model => Model.dataNascimento, tudoTamanho: 4, inputTamanho: 6)
+                </div>
+            </div>
+        </div>
+    </div>
+}
