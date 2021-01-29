@@ -16,11 +16,21 @@
         </div>
         <div class="panel-body">
             <div class="row">
-                <div class="col-md-12">
-                    @Html.EditBootstrapFor(model => Model.codigoUsuario, tudoTamanho: 12, inputTamanho: 2)
-                    @Html.EditBootstrapFor(model => Model.nomeUsuario, tudoTamanho: 12, inputTamanho: 5)
-                    @Html.EditBootstrapFor(model => Model.ValorTeste, tudoTamanho: 4, inputTamanho: 8)
-                    @Html.EditBootstrapFor(model => Model.dataNascimento, tudoTamanho: 4, inputTamanho: 6)
+                <div class="col-md-12 inputLabel">
+                    <div class="row col-md-12">
+                        @Html.EditBootstrapFor(model => Model.codigoUsuario, tudoTamanho: 6, inputTamanho: 6)
+                        @Html.EditBootstrapFor(model => Model.dataNascimento, tudoTamanho: 6, inputTamanho: 10)
+                    </div>
+                    <div class="row col-md-12">
+                        @Html.EditBootstrapFor(model => Model.nomeUsuario, tudoTamanho: 12, inputTamanho: 12)
+                    </div>
+                    <div class="row col-md-12">
+                        @Html.EditBootstrapFor(model => Model.email, tudoTamanho: 12, inputTamanho: 12)
+                    </div>
+                    <div class="row col-md-12">
+                        @Html.EditBootstrapFor(model => Model.Conta, tudoTamanho: 6, inputTamanho: 8)
+                        @Html.EditBootstrapFor(model => Model.ValorTeste, tudoTamanho: 6, inputTamanho: 8)
+                    </div>
                 </div>
             </div>
         </div>

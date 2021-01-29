@@ -19,12 +19,20 @@ namespace SistemaFinanceiro.Areas.Cadastros.Models
         [Required(ErrorMessage = "Obrigatorio informar o nome do usuário")]
         public string nomeUsuario { get; set; }
 
+        [Display(Name = "E-mail")]
+        [Ajuda("email do usuario")]
+        [StringLength(50)]
+        [Required(ErrorMessage = "Obrigatorio informar o email")]
+        public string email { get; set; }
 
         [Display(Name = "Valor")]
         [InputAttributeAux(Inicio = "R$")]
         [InputMask("#.##0,00", IsReverso = true)]
         [StringLength(10)]
         public string ValorTeste { get; set; }
+
+        [Display(Name = "Conta")]
+        public string Conta { get; set; }
 
 
         [Display(Name = "Data de Nascimento")]

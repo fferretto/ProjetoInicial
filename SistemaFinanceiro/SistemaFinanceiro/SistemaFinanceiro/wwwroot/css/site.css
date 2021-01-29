@@ -1,5 +1,5 @@
 ﻿body {
-    padding-top: 120px;
+    
     padding-bottom: 20px;
     background: #eaeaea;
     /*background: #ccc;*/
@@ -24,7 +24,7 @@ table.dataTable thead th:first-child {
 }
 /* Set padding to keep content from hitting the edges */
 .body-content {
-    padding-left: 309px;
+    padding-left: 15px;
     padding-right: 15px;
 }
 /* Override the default bootstrap behavior where horizontal description lists 
@@ -142,6 +142,8 @@ table.dataTable thead th:first-child {
 
 .panel-default {
     background-color: rgba(255, 255, 255, 0.8);
+    width: 35%;
+    margin: auto;
 }
 
 
@@ -884,4 +886,12 @@ select#codStatus option[value="female"] {
 
 select#codStatus option[value="others"] {
     background-image: url(others.png);
+}
+
+
+/*============================================================================*/
+.row.col-md-12 {
+    width: 100%;
+    margin: auto;
+    padding: 10px 0;
 }
