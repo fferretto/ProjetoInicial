@@ -10,7 +10,7 @@
 {
     <div class="panel panel-default">
         <div class="panel-heading">
-            <div style="font-weight: bold; font-size: 15px;">
+            <div style="font-weight: bold; font-size: 15pt; padding-top: 1rem">
                 <b>Cadastro de Usuário</b>
             </div>
         </div>
@@ -28,8 +28,11 @@
                         @Html.EditBootstrapFor(model => Model.email, tudoTamanho: 12, inputTamanho: 12)
                     </div>
                     <div class="row col-md-12">
-                        @Html.EditBootstrapFor(model => Model.Conta, tudoTamanho: 6, inputTamanho: 8)
-                        @Html.EditBootstrapFor(model => Model.ValorTeste, tudoTamanho: 6, inputTamanho: 8)
+                        @Html.EditBootstrapFor(model => Model.Conta, tudoTamanho: 6, inputTamanho: 10)
+                        @Html.EditBootstrapFor(model => Model.ValorTeste, tudoTamanho: 6, inputTamanho: 10)
+                    </div>
+                    <div class="row col-md-12">
+                        <button class="btn btn-success divBtn">Enviar</button>
                     </div>
                 </div>
             </div>
