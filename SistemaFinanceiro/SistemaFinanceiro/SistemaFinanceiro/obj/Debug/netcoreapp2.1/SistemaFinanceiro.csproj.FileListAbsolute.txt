@@ -32,40 +32,77 @@ D:\Projetos\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netc
 D:\Projetos\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.dll
 D:\Projetos\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.pdb
 D:\Projetos\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.csproj.CopyComplete
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\bin\Debug\netcoreapp2.1\appsettings.Development.json
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\bin\Debug\netcoreapp2.1\appsettings.json
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\bin\Debug\netcoreapp2.1\SistemaFinanceiro.deps.json
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\bin\Debug\netcoreapp2.1\SistemaFinanceiro.runtimeconfig.json
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\bin\Debug\netcoreapp2.1\SistemaFinanceiro.runtimeconfig.dev.json
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\bin\Debug\netcoreapp2.1\SistemaFinanceiro.dll
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\bin\Debug\netcoreapp2.1\SistemaFinanceiro.pdb
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\bin\Debug\netcoreapp2.1\SistemaFinanceiro.Views.dll
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\bin\Debug\netcoreapp2.1\SistemaFinanceiro.Views.pdb
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.csprojAssemblyReference.cache
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.AssemblyInfoInputs.cache
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.AssemblyInfo.cs
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.csproj.CoreCompileInputs.cache
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.RazorAssemblyInfo.cache
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.RazorAssemblyInfo.cs
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.TagHelpers.input.cache
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.TagHelpers.output.cache
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.RazorCoreGenerate.cache
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Areas\Cadastros\Views\Usuario\Index.cshtml.g.cs
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Master.cshtml.g.cs
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.RazorTargetAssemblyInfo.cache
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.RazorTargetAssemblyInfo.cs
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.Views.pdb
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.dll
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.pdb
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.genruntimeconfig.cache
-C:\Users\tiegh\Desktop\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.csproj.CopyComplete
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\bin\Debug\netcoreapp2.1\SistemaFinanceiro.deps.json
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\bin\Debug\netcoreapp2.1\SistemaFinanceiro.runtimeconfig.json
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\bin\Debug\netcoreapp2.1\SistemaFinanceiro.runtimeconfig.dev.json
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\bin\Debug\netcoreapp2.1\SistemaFinanceiro.dll
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\bin\Debug\netcoreapp2.1\SistemaFinanceiro.pdb
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\bin\Debug\netcoreapp2.1\SistemaFinanceiro.Views.dll
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\bin\Debug\netcoreapp2.1\SistemaFinanceiro.Views.pdb
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.csprojAssemblyReference.cache
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.AssemblyInfoInputs.cache
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.AssemblyInfo.cs
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.csproj.CoreCompileInputs.cache
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.RazorAssemblyInfo.cache
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.RazorAssemblyInfo.cs
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.TagHelpers.input.cache
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.TagHelpers.output.cache
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.RazorCoreGenerate.cache
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Areas\Cadastros\Views\Usuario\Index.cshtml.g.cs
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Master.cshtml.g.cs
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.RazorTargetAssemblyInfo.cache
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.RazorTargetAssemblyInfo.cs
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.Views.pdb
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.dll
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.pdb
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.genruntimeconfig.cache
+C:\Users\tiegh\Desktop\Projeto\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.csproj.CopyComplete
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\bin\Debug\netcoreapp2.1\SistemaFinanceiro.deps.json
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\bin\Debug\netcoreapp2.1\SistemaFinanceiro.runtimeconfig.json
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\bin\Debug\netcoreapp2.1\SistemaFinanceiro.runtimeconfig.dev.json
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\bin\Debug\netcoreapp2.1\SistemaFinanceiro.dll
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\bin\Debug\netcoreapp2.1\SistemaFinanceiro.pdb
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\bin\Debug\netcoreapp2.1\SistemaFinanceiro.Views.dll
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\bin\Debug\netcoreapp2.1\SistemaFinanceiro.Views.pdb
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.csprojAssemblyReference.cache
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.AssemblyInfoInputs.cache
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.AssemblyInfo.cs
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.csproj.CoreCompileInputs.cache
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.RazorAssemblyInfo.cache
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.RazorAssemblyInfo.cs
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.TagHelpers.input.cache
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.TagHelpers.output.cache
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.RazorCoreGenerate.cache
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Areas\Cadastros\Views\Usuario\Index.cshtml.g.cs
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Master.cshtml.g.cs
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.RazorTargetAssemblyInfo.cache
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.RazorTargetAssemblyInfo.cs
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.Views.pdb
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.dll
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.pdb
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.genruntimeconfig.cache
+C:\Users\tiegh\Desktop\New folder\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\SistemaFinanceiro\obj\Debug\netcoreapp2.1\SistemaFinanceiro.csproj.CopyComplete

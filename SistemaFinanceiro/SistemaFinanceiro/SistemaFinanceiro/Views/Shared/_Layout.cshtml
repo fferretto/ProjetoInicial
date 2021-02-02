@@ -21,9 +21,9 @@
     <link rel="stylesheet" href="~/css/morris/morris-0.4.3.min.css" />
     <link rel="stylesheet" href="~/css/bootstrap-datepicker.css" />
     <link rel="stylesheet" href="~/css/bootstrap-datepicker.standalone.css" />
-    <link rel="stylesheet" href="~/css/estilo.css" />
     <link rel="stylesheet" href="~/js/dataTables/datatables.min.css" />
     <link rel="stylesheet" href="~/js/dataTables/dataTables.bootstrap.css" />
+    <link rel="stylesheet" href="~/css/form.css" />
 
     <link rel="stylesheet" href="~/css/buttons.dataTables.min.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.css">
@@ -60,17 +60,16 @@
 
     <script src="https://www.gstatic.com/charts/loader.js"></script>
 
+    <div class="Header_design">
+        <div class="designMenu col-md-11">
+            @await Component.InvokeAsync("ListMenu")
+        </div>
+    </div>
 
 
 </head>
 
 <body>
-
-    <div class="Header_design">
-        <div class="area">
-            @await Component.InvokeAsync("ListMenu")
-        </div>
-    </div>
 
 
 
@@ -80,11 +79,11 @@
 
         <main class="page-content body-content" id="page-wrapper">
             <div class="container-fluid" id="page-inner">
-                <div class="col-md-12">
+                @*<div class="col-md-12">*@
                     <!-- sidebar-wrapper  -->
                     @RenderBody()
                     <!-- page-content" -->
-                </div>
+                @*</div>*@
             </div>
         </main>
     </div>
@@ -94,6 +93,7 @@
     <div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
     </div>
 
+    <script src="~/js/form.js"></script>
     <script src="~/js/jquery-3.3.1.js"></script>
     <script src="~/js/bootstrap-datepicker.js"></script>
     <script src="~/js/locales/bootstrap-datepicker.pt-BR.min.js"></script>

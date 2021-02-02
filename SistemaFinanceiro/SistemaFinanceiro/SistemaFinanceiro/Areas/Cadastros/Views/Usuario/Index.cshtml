@@ -8,34 +8,58 @@
 
 @using (Html.BeginForm())
 {
-    <div class="panel panel-default">
-        <div class="panel-heading">
-            <div style="font-weight: bold; font-size: 15pt; padding-top: 1rem">
-                <b>Cadastro de Usuário</b>
-            </div>
-        </div>
-        <div class="panel-body">
-            <div class="row">
-                <div class="col-md-12 inputLabel">
-                    <div class="row col-md-12">
-                        @Html.EditBootstrapFor(model => Model.codigoUsuario, tudoTamanho: 6, inputTamanho: 6)
-                        @Html.EditBootstrapFor(model => Model.dataNascimento, tudoTamanho: 6, inputTamanho: 10)
+    
+    <!----- close button ----->
+    <div class="close">
+        <i class="fa fa-close"></i>
+    </div>
+
+    <!---- search field ------->
+    <div class="search">
+        <i class="fa fa-address-card"></i>
+        <div class="cadForm">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <div style="font-weight: bold; font-size: 15px;">
+                        <b>Cadastro</b>
                     </div>
-                    <div class="row col-md-12">
-                        @Html.EditBootstrapFor(model => Model.nomeUsuario, tudoTamanho: 12, inputTamanho: 12)
-                    </div>
-                    <div class="row col-md-12">
-                        @Html.EditBootstrapFor(model => Model.email, tudoTamanho: 12, inputTamanho: 12)
-                    </div>
-                    <div class="row col-md-12">
-                        @Html.EditBootstrapFor(model => Model.Conta, tudoTamanho: 6, inputTamanho: 10)
-                        @Html.EditBootstrapFor(model => Model.ValorTeste, tudoTamanho: 6, inputTamanho: 10)
-                    </div>
-                    <div class="row col-md-12">
-                        <button class="btn btn-success divBtn">Enviar</button>
+                </div>
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="row cadInput">
+                                @*@Html.EditBootstrapFor(model => Model.codigoUsuario, tudoTamanho: 12, inputTamanho: 2)*@
+                            </div>
+                            <div class="row cadInput">
+                                @Html.EditBootstrapFor(model => Model.nomeUsuario, tudoTamanho: 12, inputTamanho: 12)
+                                
+                            </div>
+                            <div class="row cadInput">
+                                @Html.EditBootstrapFor(model => Model.Email, tudoTamanho: 12, inputTamanho: 12)
+                            </div>
+                            <div class="row cadInput">
+                                <div class="col">
+                                    @Html.EditBootstrapFor(model => Model.Fone, tudoTamanho: 6, inputTamanho: 10)
+                                </div>
+                                <div class="col">
+                                    @Html.EditBootstrapFor(model => Model.dataNascimento, tudoTamanho: 6, inputTamanho: 7)
+                                </div>
+                            </div>
+                            <div class="row cadInput">
+                                <div class="d-lg-inline-flex">
+                                    <div class="btn btnCpf_cnpj" id="btnCpf">CPF</div>
+                                    <div class="btn btnCpf_cnpj" id="btnCnpj">CNPJ</div>
+                                </div>
+                                @Html.EditBootstrapFor(model => Model.Cpf, tudoTamanho: 8, inputTamanho: 10)
+                            </div>
+                            <div class="row text-center">
+                                <button class="btn btn-success">Enviar</button>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
+
     </div>
 }

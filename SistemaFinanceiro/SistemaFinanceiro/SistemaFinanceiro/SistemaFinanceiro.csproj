@@ -22,4 +22,8 @@
     <Folder Include="Areas\Cadastros\Data\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\css\form.css" />
+  </ItemGroup>
+
 </Project>

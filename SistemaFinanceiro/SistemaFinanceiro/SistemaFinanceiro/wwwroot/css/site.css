@@ -1,5 +1,5 @@
 ﻿body {
-    
+    padding-top: 120px;
     padding-bottom: 20px;
     background: #eaeaea;
     /*background: #ccc;*/
@@ -24,7 +24,7 @@ table.dataTable thead th:first-child {
 }
 /* Set padding to keep content from hitting the edges */
 .body-content {
-    padding-left: 15px;
+    padding-left: 309px;
     padding-right: 15px;
 }
 /* Override the default bootstrap behavior where horizontal description lists 
@@ -75,7 +75,6 @@ table.dataTable thead th:first-child {
 
 .panel-body {
     padding: 15px;
-    background-color: #345d5f;
 }
 
 .panel-heading {
@@ -125,9 +124,9 @@ table.dataTable thead th:first-child {
     color: #ffffff !important;
     font-size: 12px;
     background-color: #345d5f;
+    border-color: #fd3131;
+    border-width: 2px;
     padding: 5px 16px;
-    height: 6rem;
-    text-align: center;
 }
 
 .panel-default > .panel-heading-decision {
@@ -143,8 +142,6 @@ table.dataTable thead th:first-child {
 
 .panel-default {
     background-color: rgba(255, 255, 255, 0.8);
-    width: 40%;
-    margin: auto;
 }
 
 
@@ -887,34 +884,4 @@ select#codStatus option[value="female"] {
 
 select#codStatus option[value="others"] {
     background-image: url(others.png);
-}
-
-
-/*============================================================================*/
-.row.col-md-12 {
-    width: 100%;
-    margin: auto;
-    padding: 10px 0;
-}
-label {
-    /*    display: inline-block;
-    margin-bottom: 2px;
-    font-weight: bold;
-    font-size: 13pt;
-    padding-bottom: 10px;*/
-    font-family: 'Lobster', cursive;
-    font-size: 1.75rem;
-    color: palegoldenrod;
-    padding-bottom: 10px;
-}
-.form-control {
-    border-top-left-radius: 0;
-    border-bottom-left-radius: 0;
-    height: 4rem;
-    font-size: 13pt;
-}
-.divBtn {
-    height: 5rem;
-    width: 8rem;
-    font-size: 13pt;
 }
