@@ -58,6 +58,56 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-confirm/3.3.2/jquery-confirm.min.js"></script>
 
     <script src="https://www.gstatic.com/charts/loader.js"></script>
+    
+    <script type="text/javascript">
+
+        var listAviso = [];
+
+        function showError() {
+            //var altura = 8;
+
+            if (listAviso.length == 0) return;
+
+            $.each(listAviso, function (i, retorno2) {
+
+                if (retorno2 != null) {
+                    var TipAviso = retorno2[i][1];
+
+                    var cor = 'red';
+                    var _title = "";
+                    var _icon = "";
+
+                    if (TipAviso == "Sucesso") { cor = 'green'; _title = "Sucesso"; _icon = "glyphicon glyphicon-ok"; }
+                    if (TipAviso == "Erro") { cor = 'red'; _title = "Erro"; _icon = "glyphicon glyphicon-remove"; }
+                    if (TipAviso == "Aviso") { cor = 'blue'; _title = "Aviso"; _icon = "glyphicon glyphicon-alert"; }
+
+                    return new $.confirm({
+                        title: _title,
+                        icon: _icon,
+                        content: retorno2[i][2],
+                        type: cor,
+                        typeAnimated: true,
+                        buttons: {
+                            tryAgain: {
+                                text: 'OK',
+                                btnClass: 'btn-' + cor,
+                                action: function () {
+                                    listAviso = [];
+                                }
+                            }
+                        }
+                    });
+
+
+                    retorno2 = null;
+                }
+            })
+
+        }
+
+                                                    //jQuery(document).ready(() => showError());
+
+    </script>
 
     <div class="Header_design">
         <div class="designMenu col-md-11">

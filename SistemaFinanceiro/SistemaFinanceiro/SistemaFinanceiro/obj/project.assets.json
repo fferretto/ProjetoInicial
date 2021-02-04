@@ -13544,11 +13544,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\SistemaFinanceiro\\SistemaFinanceiro\\SistemaFinanceiro\\SistemaFinanceiro.csproj",
+      "projectUniqueName": "D:\\Projetos\\ProjetoInicial\\SistemaFinanceiro\\SistemaFinanceiro\\SistemaFinanceiro\\SistemaFinanceiro.csproj",
       "projectName": "SistemaFinanceiro",
-      "projectPath": "D:\\Projetos\\SistemaFinanceiro\\SistemaFinanceiro\\SistemaFinanceiro\\SistemaFinanceiro.csproj",
+      "projectPath": "D:\\Projetos\\ProjetoInicial\\SistemaFinanceiro\\SistemaFinanceiro\\SistemaFinanceiro\\SistemaFinanceiro.csproj",
       "packagesPath": "C:\\Users\\lffer\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\SistemaFinanceiro\\SistemaFinanceiro\\SistemaFinanceiro\\obj\\",
+      "outputPath": "D:\\Projetos\\ProjetoInicial\\SistemaFinanceiro\\SistemaFinanceiro\\SistemaFinanceiro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,5 @@
+D:\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\Infra.Data\bin\Debug\netstandard2.0\Domain.dll
+D:\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\Infra.Data\obj\Debug\netstandard2.0\Infra.Data.csprojAssemblyReference.cache
+D:\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\Infra.Data\obj\Debug\netstandard2.0\Infra.Data.csproj.CoreCompileInputs.cache
+D:\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\Infra.Data\obj\Debug\netstandard2.0\Infra.Data.AssemblyInfoInputs.cache
+D:\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\Infra.Data\obj\Debug\netstandard2.0\Infra.Data.AssemblyInfo.cs
