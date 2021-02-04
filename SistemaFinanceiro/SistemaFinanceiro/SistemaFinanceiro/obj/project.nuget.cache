@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jFqTtVqKUkgVWb5i2IzcEVPNEICWQsJlXkJRkAf/giRiryX7gNW1RiFh8YlP/O8BlKXQ1IJlKAh7wVPEZ+QShw==",
+  "dgSpecHash": "nwUp9xQP5E3UAPFM3VniCFnm86cTzJQY30acKOK/M5WHVqixyvDhklCoRdQYmzjKTh+rfwh78TMM8iJFE26Ifg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tiegh\\Desktop\\New folder\\Projetos\\ProjetoInicial\\SistemaFinanceiro\\SistemaFinanceiro\\SistemaFinanceiro\\SistemaFinanceiro.csproj",
+  "projectFilePath": "C:\\Users\\tiegh\\Desktop\\ProjetoInicial\\SistemaFinanceiro\\SistemaFinanceiro\\SistemaFinanceiro\\SistemaFinanceiro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tiegh\\.nuget\\packages\\bootstrap\\4.6.0\\bootstrap.4.6.0.nupkg.sha512",
     "C:\\Users\\tiegh\\.nuget\\packages\\bootstrap.datepicker\\1.8.0.1\\bootstrap.datepicker.1.8.0.1.nupkg.sha512",

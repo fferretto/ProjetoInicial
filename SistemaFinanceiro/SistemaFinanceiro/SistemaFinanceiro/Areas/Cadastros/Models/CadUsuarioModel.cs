@@ -16,10 +16,9 @@ namespace SistemaFinanceiro.Areas.Cadastros.Models
         [Ajuda("è o código do Usuario")]
         [Display(Name = "Código")]
         public int codigoUsuario { get; set; }
-        
         [Display(Name = "Nome")]
         [Ajuda("ajuda 2")]
-        [InputAttributeAux(Inicio = userIcon)]
+        [InputAttributeAux(Final = userIcon, Type = "search")]
         [StringLength(60)]
         [Required(ErrorMessage = "Obrigatorio informar o nome do usuário")]
         
@@ -27,26 +26,28 @@ namespace SistemaFinanceiro.Areas.Cadastros.Models
 
         [Display(Name = "E-mail")]
         [Ajuda("Campo que vai o email do usuario")]
-        [InputAttributeAux(Inicio = emailIcon)]
+        [InputAttributeAux(Final = emailIcon, Type = "search")]
         [StringLength(60)]
         [Required(ErrorMessage = "Obrigatorio informar o E-mail")]
 
         public string Email { get; set; }
 
         [Display(Name = "Telefone")]
-        [InputAttributeAux(Inicio = foneIcon)]
+        [InputAttributeAux(Final = foneIcon, Type = "search")]
         public string Fone { get; set; }
 
         [Display(Name = "Dt. de Nascimento")]
         [InputMask("99/99/9999", IsReverso = true)]
-        [InputAttributeAux(Final = "<i class='fa fa-calendar'></i>")]
+        [InputAttributeAux(Final = "<i class='fa fa-calendar'></i>", Type = "search")]
         public string dataNascimento { get; set; }
 
-        [Display(Name = "")]
+        [InputAttributeAux(Type = "search")]
+        [Ajuda("Clica em CPF se deseja informar seu cpf<br/>Clica em CNPJ se deseja informar seu CNPJ")]
+        [Required(ErrorMessage = "Informar CPF ou CNPJ")]
         public string Cpf { get; set; }
 
         [Display(Name = "Valor")]
-        [InputAttributeAux(Inicio = "R$")]
+        [InputAttributeAux(Final = "R$")]
         [InputMask("#.##0,00", IsReverso = true)]
         [StringLength(10)]
         public string ValorTeste { get; set; }

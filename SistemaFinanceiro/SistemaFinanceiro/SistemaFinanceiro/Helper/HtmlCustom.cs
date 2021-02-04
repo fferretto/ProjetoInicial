@@ -41,7 +41,7 @@ namespace SistemaFinanceiro.Helper
             var mainDiv = new TagBuilder("div");
 
             if (inputMask != null && inputMask.Mask == "99/99/9999")
-                mainDiv.AddCssClasses("form-group", "umadata", $"div{(expression.Body as MemberExpression).Member.Name }", $"col-xs-{tudoTamanho}");
+                mainDiv.AddCssClasses("form-group", "umadata", $"div{(expression.Body as MemberExpression).Member.Name }", $"col-xs-{tudoTamanho} pull-right");
             else
                 mainDiv.AddCssClasses("form-group", $"div{(expression.Body as MemberExpression).Member.Name }", $"col-xs-{tudoTamanho}");
 
@@ -97,7 +97,7 @@ namespace SistemaFinanceiro.Helper
             }
             // Declara a div do input.
             var divInput = new TagBuilder("div");
-            divInput.AddCssClasses("input-group", $"col-xs-{inputTamanho}");
+            divInput.AddCssClasses("input-group", $"col-xs-{inputTamanho}", "divInput");
 
             if (InputAttribute != null && InputAttribute.TemInicio)
             {

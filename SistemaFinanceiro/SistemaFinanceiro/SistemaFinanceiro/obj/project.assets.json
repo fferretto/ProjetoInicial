@@ -13543,11 +13543,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tiegh\\Desktop\\New folder\\Projetos\\ProjetoInicial\\SistemaFinanceiro\\SistemaFinanceiro\\SistemaFinanceiro\\SistemaFinanceiro.csproj",
+      "projectUniqueName": "C:\\Users\\tiegh\\Desktop\\ProjetoInicial\\SistemaFinanceiro\\SistemaFinanceiro\\SistemaFinanceiro\\SistemaFinanceiro.csproj",
       "projectName": "SistemaFinanceiro",
-      "projectPath": "C:\\Users\\tiegh\\Desktop\\New folder\\Projetos\\ProjetoInicial\\SistemaFinanceiro\\SistemaFinanceiro\\SistemaFinanceiro\\SistemaFinanceiro.csproj",
+      "projectPath": "C:\\Users\\tiegh\\Desktop\\ProjetoInicial\\SistemaFinanceiro\\SistemaFinanceiro\\SistemaFinanceiro\\SistemaFinanceiro.csproj",
       "packagesPath": "C:\\Users\\tiegh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tiegh\\Desktop\\New folder\\Projetos\\ProjetoInicial\\SistemaFinanceiro\\SistemaFinanceiro\\SistemaFinanceiro\\obj\\",
+      "outputPath": "C:\\Users\\tiegh\\Desktop\\ProjetoInicial\\SistemaFinanceiro\\SistemaFinanceiro\\SistemaFinanceiro\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tiegh\\AppData\\Roaming\\NuGet\\NuGet.Config",
