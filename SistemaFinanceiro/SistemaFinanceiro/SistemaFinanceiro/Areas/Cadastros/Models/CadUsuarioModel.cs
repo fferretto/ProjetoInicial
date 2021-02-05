@@ -18,7 +18,7 @@ namespace SistemaFinanceiro.Areas.Cadastros.Models
         public int codigoUsuario { get; set; }
         [Display(Name = "Nome")]
         [Ajuda("ajuda 2")]
-        [InputAttributeAux(Final = userIcon, Type = "search")]
+        [InputAttributeAux(Inicio = userIcon, Type = "search")]
         [StringLength(60)]
         [Required(ErrorMessage = "Obrigatorio informar o nome do usuário")]
         
@@ -26,7 +26,7 @@ namespace SistemaFinanceiro.Areas.Cadastros.Models
 
         [Display(Name = "E-mail")]
         [Ajuda("Campo que vai o email do usuario")]
-        [InputAttributeAux(Final = emailIcon, Type = "search")]
+        [InputAttributeAux(Inicio = emailIcon, Type = "search")]
         [StringLength(60)]
         [Required(ErrorMessage = "Obrigatorio informar o E-mail")]
 

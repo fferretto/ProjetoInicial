@@ -1,4 +1,4 @@
-﻿/*@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+﻿@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 
 
 * {
@@ -7,90 +7,39 @@
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+    outline: none;
 }
 
 body {
     background: #263238;
     position: relative;
-}*/
-
-/*-----------Botao fechar--------------*/
-/*.close {
-    position: relative;
-    color: #fff !important;
-    top: 20px;
-    right: 50px;
-    font-size: 2.5em;
-    cursor: pointer;
-    display: none;
-    z-index: 999;
-    -webkit-transform: rotate(0deg);
-    transform: rotate(0deg);
-    -webkit-transition: all 600ms cubic-bezier(0.68, -0.55, 0.265, 1.55);
-    transition: all 600ms cubic-bezier(0.68, -0.55, 0.265, 1.55);
-    opacity: 1 !important;
-}
-
-    .close:hover {
-        font-size: 3em;
-        -webkit-transform: rotate(360deg);
-        transform: rotate(360deg);
-    }*/
-
-/*-------------- Classe que abre que contem formularip -----------*/
-/*.search {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-    width: 0;
-    height: 0;
-    background: #252c34;
-    -webkit-transition: all .4s linear;
-    transition: all .4s linear;
-}
-
-i.fa.fa-address-card {
-    color: #4f5b69;
-    font-size: 3.7em;
-    cursor: pointer;
-}
-
-.cadForm {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-    width: 40%;
-    height: 67%;
-    background: #252c34;
-    border: none;
-    outline: none;
-    border-bottom: 3px solid #eee;
-    color: #eee;
-    font-size: 1.3em;
-}*/
-
-/*.search.open {
     height: 100%;
-    width: 100%;
+}
+/*main{
+    height: 100%;
+}
+div#page-inner {
+    height: 100%;
 }*/
-
 
 /*===============section que contem o formulario=======================*/
-/*.panel.panel-default {
+/*form {
+    height: 100%;
+}*/
+form > .panel-default {
     margin: 0;
-    height: 101%;
+    width: 60%;
+    height: auto;
+    margin: auto;
+    background: #fff;
+    font-size: 1.3em;
 }
 
-.panel-default > .panel-heading {
+/*.panel-default > .panel-heading {
     background-color: #fff !important;
     border-color: #fff!important;
-    color: #252c34!important;*/
-    /*border-color: #fff!important;*/
-    /*height: 4em;
+    color: #252c34!important;
+    height: 4em;
     display: flex;
     align-items: center;
 }
@@ -105,11 +54,14 @@ i.fa.fa-address-card {
     display: flex;
     justify-content: center;
     color: #f00;
-    padding: 0!important;
+    height:100%;
+}
+form {
+
 }*/
 
 /*---------div com input e label----------*/
-/*.divInput input {
+.divInput input {
     height: 2.3em;
     padding-left: 2.5em;
     font-size: 12pt;
@@ -131,14 +83,14 @@ i.fa.fa-address-card {
 }
 
 .form-row.cadInput {
-    margin: 10px auto;*/
+    
     /*width: 85%;*/
-    /*height: 4em;
-}*/
+    height: 6.5em;
+}
 
 /*------Dando estilo ao input e label------------*/
 
-/*label {
+label {
     font-family: unset;
     color: #252c34;
     margin-bottom: 6px !important;
@@ -169,12 +121,8 @@ input {
             color: darkturquoise;
         }
 
-.divFone.form-group {
-    padding: 0;
-}*/
-
 /*Colocando um botao(x) dentro do input que limpa qualque valor dentro*/
-/*input[type=search] {
+input[type=search] {
     -webkit-appearance: none !important;
     margin: 0 !important;
 }
@@ -182,24 +130,9 @@ input {
     input[type=search]::-webkit-search-cancel-button {
         -webkit-appearance: searchfield-cancel-button !important;
         cursor: pointer !important;
-    }*/
-
-/* Div que simula um botao para CPF/CNPJ */
-/*.btnCpf_cnpj {
-    font-family: unset;
-    color: #252c34;
-    font-size: 11pt;
-    font-weight: 700;
-    cursor: pointer;
-}
-#btnCpf {
-    background-color: #252c34;
-    color: #fff;
-    border-radius: 5px;
-}
-
+    }
 
 i.fa-question-circle.fa {
     font-size: 13px;
     color: #252c34;
-}*/
+}

@@ -8,65 +8,42 @@
 
 @using (Html.BeginForm())
 {
-
-    <!----- close button ----->
-    @*<div class="close">
-            <i class="fa fa-close"></i>
-        </div>*@
-
-    <!---- search field ------->
-    @*<div class="search">*@
-
-    <div class="cadForm">
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <div style="font-weight: bold; font-size: 15px;">
-                    <b>Cadastro</b>
-                </div>
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <div style="font-weight: bold; font-size: 15px;">
+                <b>Cadastro</b>
             </div>
-            <div class="panel-body">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="row cadInput">
-                            @*@Html.EditBootstrapFor(model => Model.codigoUsuario, tudoTamanho: 12, inputTamanho: 2)*@
-                        </div>
-                        <div class="col-md-12 form-row cadInput">
-                            @Html.EditBootstrapFor(model => Model.nomeUsuario, tudoTamanho: 10, inputTamanho: 12)
-
-                            <div class="form-group col-md-2">
-                                <label></label>
-                                <div class="input-group col-xs-12" id="btnLocalizar">
-                                    <div class="btn btn-success" onclick="LocalizaCliente();">Localizar</div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="form-row cadInput">
-                            @Html.EditBootstrapFor(model => Model.Email, tudoTamanho: 12, inputTamanho: 12)
-                        </div>
-                        <div class="form-row cadInput">
-                            <div class="col-md-6">
-                                @Html.EditBootstrapFor(model => Model.Fone, tudoTamanho: 12, inputTamanho: 11)
-                            </div>
-                            <div class="col-md-6">
-                                @Html.EditBootstrapFor(model => Model.dataNascimento, tudoTamanho: 9, inputTamanho: 12)
-                            </div>
-                        </div>
-                        <div class="form-row cadInput">
-                            @*<div class="d-lg-inline-flex">
-                                    <div class="btn btnCpf_cnpj" id="btnCpf">CPF</div>
-                                    <div class="btn btnCpf_cnpj" id="btnCnpj">CNPJ</div>
-                                </div>*@
-                            @Html.EditBootstrapFor(model => Model.Cpf, tudoTamanho: 8, inputTamanho: 10)
-                        </div>
-                        <div class="form-row justify-content-center">
-                            <button class="btn btn-success mt-5">Enviar</button>
+        </div>
+        <div class="panel-body">
+            <div class="form-group">
+                <div class="form-row cadInput">
+                    @Html.EditBootstrapFor(model => Model.nomeUsuario, tudoTamanho: 10, inputTamanho: 12)
+                    <div class="form-group col-md-2">
+                        <label></label>
+                        <div class="input-group col-xs-12" id="btnLocalizar">
+                            <div class="btn btn-success" data-toggle="modal" data-target="#Localizar" onclick="LocalizaCliente();">Localizar</div>
                         </div>
                     </div>
                 </div>
+                <div class="form-row cadInput">
+                    @Html.EditBootstrapFor(model => Model.Email, tudoTamanho: 12, inputTamanho: 12)
+                </div>
+                <div class="form-row cadInput">
+                    <div class="col-md-6" style="padding: 0;">
+                        @Html.EditBootstrapFor(model => Model.Fone, tudoTamanho: 12, inputTamanho: 11)
+                    </div>
+                    <div class="col-md-6" style="padding: 0;">
+                        @Html.EditBootstrapFor(model => Model.dataNascimento, tudoTamanho: 9, inputTamanho: 12)
+                    </div>
+                </div>
+                <div class="form-row cadInput">
+                    @Html.EditBootstrapFor(model => Model.Cpf, tudoTamanho: 7, inputTamanho: 10)
+                </div>
+                <div class="form-row justify-content-center">
+                    <button class="btn btn-success mt-5">Enviar</button>
+                </div>
             </div>
         </div>
-        @*</div>*@
-
     </div>
     <div class="modal fade" id="Localizar" tabindex="-1" role="dialog" aria-labelledby="Localizar" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered" role="document">
@@ -77,6 +54,9 @@
 
                 <div id="modal">
 
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-info" data-dismiss="modal">Fechar</button>
                 </div>
             </div>
         </div>
