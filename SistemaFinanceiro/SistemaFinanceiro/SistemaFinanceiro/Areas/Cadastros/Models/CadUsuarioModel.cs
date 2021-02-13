@@ -10,7 +10,7 @@ namespace SistemaFinanceiro.Areas.Cadastros.Models
     public class FiltroCadUsuarioModel
     {
         private const string userIcon = "<i class='fa fa-user'></i>";
-        private const string emailIcon = "<i class='fa fa-envelope'></i>";
+        private const string emailIcon = "<i class='fa fa-at'></i>";
         private const string foneIcon = "<i class='fa fa-phone'></i>";
 
         [Ajuda("è o código do Usuario")]
@@ -18,7 +18,7 @@ namespace SistemaFinanceiro.Areas.Cadastros.Models
         public int codigoUsuario { get; set; }
         [Display(Name = "Nome")]
         [Ajuda("ajuda 2")]
-        [InputAttributeAux(Inicio = userIcon, Type = "search")]
+        [InputAttributeAux(Final = userIcon, Type = "search")]
         [StringLength(60)]
         [Required(ErrorMessage = "Obrigatorio informar o nome do usuário")]
         
@@ -26,7 +26,7 @@ namespace SistemaFinanceiro.Areas.Cadastros.Models
 
         [Display(Name = "E-mail")]
         [Ajuda("Campo que vai o email do usuario")]
-        [InputAttributeAux(Inicio = emailIcon, Type = "search")]
+        [InputAttributeAux(Final = emailIcon, Type = "search")]
         [StringLength(60)]
         [Required(ErrorMessage = "Obrigatorio informar o E-mail")]
 

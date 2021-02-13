@@ -18,10 +18,13 @@
             <div class="form-group">
                 <div class="form-row cadInput">
                     @Html.EditBootstrapFor(model => Model.nomeUsuario, tudoTamanho: 10, inputTamanho: 12)
-                    <div class="form-group col-md-2">
+                    <div class="form-group col-md-2" id="locBtn">
                         <label></label>
                         <div class="input-group col-xs-12" id="btnLocalizar">
-                            <div class="btn btn-success" data-toggle="modal" data-target="#Localizar" onclick="LocalizaCliente();">Localizar</div>
+                            <div class="btn btn-success" data-toggle="modal" data-target="#Localizar" onclick="LocalizaCliente();">
+                                @*<span>Localizar</span>*@
+                                <i class="fa fa-search"></i>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -33,13 +36,13 @@
                         @Html.EditBootstrapFor(model => Model.Fone, tudoTamanho: 12, inputTamanho: 11)
                     </div>
                     <div class="col-md-6" style="padding: 0;">
-                        @Html.EditBootstrapFor(model => Model.dataNascimento, tudoTamanho: 9, inputTamanho: 12)
+                        @Html.EditBootstrapFor(model => Model.dataNascimento, tudoTamanho: 10, inputTamanho: 12)
                     </div>
                 </div>
                 <div class="form-row cadInput">
                     @Html.EditBootstrapFor(model => Model.Cpf, tudoTamanho: 7, inputTamanho: 10)
                 </div>
-                <div class="form-row justify-content-center">
+                <div class="form-row cadInput btnEnviar">
                     <button class="btn btn-success mt-5">Enviar</button>
                 </div>
             </div>
@@ -63,6 +66,12 @@
     </div>
 }
 <script>
+    $("input").focus(function (e) {
+        $("label[for='" + e.target.id + "']").addClass('labelFocus')
+    }).blur(function () {
+        $("label").removeClass('labelFocus')
+    })
+
     function LocalizaCliente() {
         var url = "/Cadastros/Usuario/ConsultaUsuarios/";
 
