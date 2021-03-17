@@ -1,0 +1,205 @@
+﻿/*@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    background: #263238;
+    position: relative;
+}*/
+
+/*-----------Botao fechar--------------*/
+/*.close {
+    position: relative;
+    color: #fff !important;
+    top: 20px;
+    right: 50px;
+    font-size: 2.5em;
+    cursor: pointer;
+    display: none;
+    z-index: 999;
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+    -webkit-transition: all 600ms cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    transition: all 600ms cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    opacity: 1 !important;
+}
+
+    .close:hover {
+        font-size: 3em;
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }*/
+
+/*-------------- Classe que abre que contem formularip -----------*/
+/*.search {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width: 0;
+    height: 0;
+    background: #252c34;
+    -webkit-transition: all .4s linear;
+    transition: all .4s linear;
+}
+
+i.fa.fa-address-card {
+    color: #4f5b69;
+    font-size: 3.7em;
+    cursor: pointer;
+}
+
+.cadForm {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width: 40%;
+    height: 67%;
+    background: #252c34;
+    border: none;
+    outline: none;
+    border-bottom: 3px solid #eee;
+    color: #eee;
+    font-size: 1.3em;
+}*/
+
+/*.search.open {
+    height: 100%;
+    width: 100%;
+}*/
+
+
+/*===============section que contem o formulario=======================*/
+/*.panel.panel-default {
+    margin: 0;
+    height: 101%;
+}
+
+.panel-default > .panel-heading {
+    background-color: #fff !important;
+    border-color: #fff!important;
+    color: #252c34!important;*/
+    /*border-color: #fff!important;*/
+    /*height: 4em;
+    display: flex;
+    align-items: center;
+}
+.panel-heading > div {
+    width: auto;
+    margin:auto;
+}
+.panel-heading > div > b {
+    font-size: xx-large;
+}
+.panel-body {
+    display: flex;
+    justify-content: center;
+    color: #f00;
+    padding: 0!important;
+}*/
+
+/*---------div com input e label----------*/
+/*.divInput input {
+    height: 2.3em;
+    padding-left: 2.5em;
+    font-size: 12pt;
+}
+
+.divInput span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 0;
+    width: 3.4em;
+    line-height: 2.7em;
+    text-align: center;
+    pointer-events: none;
+    z-index: 3;
+    border: none;
+    background: transparent;
+    color: #252c34;
+}
+
+.form-row.cadInput {
+    margin: 10px auto;*/
+    /*width: 85%;*/
+    /*height: 4em;
+}*/
+
+/*------Dando estilo ao input e label------------*/
+
+/*label {
+    font-family: unset;
+    color: #252c34;
+    margin-bottom: 6px !important;
+    font-size: 12pt;
+}
+
+input {
+    width: 100%;
+    padding: 1em;
+    margin: 0 !important;
+    line-height: 1.4;
+    background-color: #f9f9f9;
+    border: 1px solid #e5e5e5;
+    border-radius: 3px;
+    transition: all 0.35s ease-in-out;
+}
+
+    input:focus {
+        outline: 0;
+        border-color: cadetblue;
+    }
+
+        input:focus + span {
+            color: darkturquoise;
+        }
+
+        .labelFocus {
+            color: darkturquoise;
+        }
+
+.divFone.form-group {
+    padding: 0;
+}*/
+
+/*Colocando um botao(x) dentro do input que limpa qualque valor dentro*/
+/*input[type=search] {
+    -webkit-appearance: none !important;
+    margin: 0 !important;
+}
+
+    input[type=search]::-webkit-search-cancel-button {
+        -webkit-appearance: searchfield-cancel-button !important;
+        cursor: pointer !important;
+    }*/
+
+/* Div que simula um botao para CPF/CNPJ */
+/*.btnCpf_cnpj {
+    font-family: unset;
+    color: #252c34;
+    font-size: 11pt;
+    font-weight: 700;
+    cursor: pointer;
+}
+#btnCpf {
+    background-color: #252c34;
+    color: #fff;
+    border-radius: 5px;
+}
+
+
+i.fa-question-circle.fa {
+    font-size: 13px;
+    color: #252c34;
+}*/

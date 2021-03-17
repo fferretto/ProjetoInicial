@@ -77,12 +77,12 @@ table.dataTable thead th:first-child {
     padding: 15px;
 }
 
-.panel-heading {
+/*.panel-heading {
     padding: 10px 15px;
     border-bottom: 1px solid transparent;
     border-top-left-radius: 3px;
     border-top-right-radius: 3px;
-}
+}*/
 
     .panel-heading > .dropdown .dropdown-toggle {
         color: inherit;
@@ -118,7 +118,7 @@ table.dataTable thead th:first-child {
     border-top-right-radius: 3px;
 }
 
-.panel-default > .panel-heading {
+/*.panel-default > .panel-heading {
     text-shadow: 0px -1px 0 rgba(255,255,255, 0.3);
     font-weight: bold !important;
     color: #ffffff !important;
@@ -127,7 +127,7 @@ table.dataTable thead th:first-child {
     border-color: #fd3131;
     border-width: 2px;
     padding: 5px 16px;
-}
+}*/
 
 .panel-default > .panel-heading-decision {
     text-shadow: 0px -1px 0 rgba(255,255,255, 0.3);
