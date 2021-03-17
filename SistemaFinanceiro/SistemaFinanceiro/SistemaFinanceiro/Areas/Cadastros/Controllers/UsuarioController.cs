@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Application.Model;
 using Microsoft.AspNetCore.Mvc;
-using SistemaFinanceiro.Areas.Cadastros.Models;
 
 namespace SistemaFinanceiro.Areas.Cadastros.Controllers
 {
@@ -12,13 +12,13 @@ namespace SistemaFinanceiro.Areas.Cadastros.Controllers
     {
         public IActionResult Index()
         {
-            FiltroCadUsuarioModel usu = new FiltroCadUsuarioModel();
+            DadosUsuarioVM usu = new DadosUsuarioVM();
             
             return View(usu);
         }
         public IActionResult ConsultaUsuarios()
         {
-            List<FiltroCadUsuarioModel> usu = new List<FiltroCadUsuarioModel>();
+            List<DadosUsuarioVM> usu = new List<DadosUsuarioVM>();
             return PartialView(usu);
         }
     }

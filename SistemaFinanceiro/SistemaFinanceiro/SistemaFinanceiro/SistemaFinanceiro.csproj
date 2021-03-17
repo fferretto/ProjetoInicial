@@ -20,10 +20,15 @@
 
   <ItemGroup>
     <Folder Include="Areas\Cadastros\Data\" />
+    <Folder Include="Areas\Cadastros\Models\" />
   </ItemGroup>
 
   <ItemGroup>
     <None Include="wwwroot\css\form.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Application\Application.csproj" />
   </ItemGroup>
 
 </Project>

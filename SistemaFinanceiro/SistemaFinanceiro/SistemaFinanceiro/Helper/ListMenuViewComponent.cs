@@ -6,7 +6,7 @@ namespace SistemaFinanceiro.Helper
     [ViewComponent(Name = "ListMenu")]
     public class ListMenuViewComponent : ViewComponent
     {
-        public async Task<IViewComponentResult> InvokeAsync()
+        public IViewComponentResult InvokeAsync()
         {
             return View("~/Views/Shared/Master.cshtml");
         }

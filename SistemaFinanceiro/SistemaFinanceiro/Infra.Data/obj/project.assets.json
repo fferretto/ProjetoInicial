@@ -3257,6 +3257,7 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "projectReferences": {
             "D:\\Projetos\\ProjetoInicial\\SistemaFinanceiro\\SistemaFinanceiro\\Domain\\Domain.csproj": {
               "projectPath": "D:\\Projetos\\ProjetoInicial\\SistemaFinanceiro\\SistemaFinanceiro\\Domain\\Domain.csproj"
@@ -3272,6 +3273,7 @@
     },
     "frameworks": {
       "netstandard2.0": {
+        "targetAlias": "netstandard2.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
@@ -3291,10 +3293,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

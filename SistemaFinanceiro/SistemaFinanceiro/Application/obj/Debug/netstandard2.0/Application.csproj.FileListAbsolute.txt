@@ -7,3 +7,8 @@ D:\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\Application\obj\D
 D:\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\Application\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
 D:\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\Application\obj\Debug\netstandard2.0\Application.dll
 D:\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\Application\obj\Debug\netstandard2.0\Application.pdb
+D:\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\Application\bin\Debug\netstandard2.0\Domain.dll
+D:\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\Application\bin\Debug\netstandard2.0\Infra.Data.dll
+D:\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\Application\bin\Debug\netstandard2.0\Infra.Data.pdb
+D:\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\Application\bin\Debug\netstandard2.0\Domain.pdb
+D:\Projetos\ProjetoInicial\SistemaFinanceiro\SistemaFinanceiro\Application\obj\Debug\netstandard2.0\Application.csproj.CopyComplete

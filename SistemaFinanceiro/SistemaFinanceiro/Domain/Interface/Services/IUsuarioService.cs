@@ -11,6 +11,5 @@ namespace Domain.Interface.Services
         void IncluiUsuario(TBUsuario usu);
         void AlteraUsuario(TBUsuario usu);
         void DesativaUsuario(int codigoUsuario);
-
     }
 }

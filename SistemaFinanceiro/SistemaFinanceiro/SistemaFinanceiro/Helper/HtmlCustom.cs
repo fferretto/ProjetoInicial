@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Html;
+﻿using Application.Helpers;
+using Microsoft.AspNetCore.Html;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using System;
 using System.Collections.Generic;
@@ -36,7 +37,7 @@ namespace SistemaFinanceiro.Helper
 
             //Tenta definir o valor de maxLength a partir do valor do InoutMaskAttribute
             var inputMask = member.GetCustomAttribute<InputMaskAttribute>();
-            var InputAttribute = member.GetCustomAttribute<InputAttributeAux>();
+            var InputAttribute = member.GetCustomAttribute<InputAttrAux>();
 
             var mainDiv = new TagBuilder("div");
 

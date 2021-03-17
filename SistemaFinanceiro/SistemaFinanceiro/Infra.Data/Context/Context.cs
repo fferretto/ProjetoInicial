@@ -1,4 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Domain.Entities;
+using Infra.Data.EntityConfig;
+using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Data.SqlClient;
@@ -6,13 +8,12 @@ using System.Linq;
 
 namespace Infra.Data.Context
 {
-    public class ContextNetCard : DbContext
+    public class ContextDB: DbContext
     {
-        public ContextNetCard(string connectionString)
+        public ContextDB(string connectionString)
         {
-            _connectionString = connectionString;
+            _connectionString = "Data Source=FERRETTOHOME\\SQLEXPRESS;Initial Catalog=ProjetoEstudo;Timeout=60;Persist Security Info=True;";
         }
-
 
         private readonly string _connectionString;
 
@@ -29,13 +30,15 @@ namespace Infra.Data.Context
 
             base.OnConfiguring(optionsBuilder);
         }
+        public DbSet<TBUsuario> TBUsuario { get; set; }
 
-        
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            //modelBuilder.Entity<PAGNET_LOGEMAILENVIADO>().Property(f => f.CODLOGEMAILENVIADO).ValueGeneratedOnAdd();            
 
             base.OnModelCreating(modelBuilder);
+
+            modelBuilder.ApplyConfiguration(new TBUsuarioMap());
         }
 
         public string ConnectionString => _connectionString;
