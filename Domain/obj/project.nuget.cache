@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "C3dmHtb7MitFuC8f3B13EyzJDBfs9bUbPUTTj0MeC8/TRKtwGBmEcc2HGzxBkr20sbYJySFnIr4ryvP1nd544w==",
+  "success": true,
+  "projectFilePath": "D:\\Projetos\\ProjetoInicial\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lffer\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lffer\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
